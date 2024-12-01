@@ -1,4 +1,4 @@
-Lower tier local authorities Code,Lower tier local authorities,Industry (current) (9 categories) Code,Industry (current) (9 categories),Age (6 categories) Code,Age (6 categories),Observation
+authorityCode,authorityName,industryCode,industryName,ageCode,age,observation
 E06000001,Hartlepool,-8,Does not apply,1,Aged 15 years and under,17652
 E06000001,Hartlepool,-8,Does not apply,2,Aged 16 to 24 years,5126
 E06000001,Hartlepool,-8,Does not apply,3,Aged 25 to 34 years,3163
