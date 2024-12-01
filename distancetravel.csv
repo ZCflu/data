@@ -1,4 +1,4 @@
-Lower tier local authorities Code,Lower tier local authorities,Distance travelled to work (5 categories) Code,Distance travelled to work (5 categories),Age (6 categories) Code,Age (6 categories),Observation
+authorityCode,authorityName,distanceCode,distanceAmount,ageCode,age,observation
 E06000001,Hartlepool,1,Less than 10km,1,Aged 15 years and under,0
 E06000001,Hartlepool,1,Less than 10km,2,Aged 16 to 24 years,1963
 E06000001,Hartlepool,1,Less than 10km,3,Aged 25 to 34 years,3480
