@@ -1,0 +1,332 @@
+localAuthority,authorityName,industryCode,industryName,observation
+E06000001,Hartlepool,7,"O, P, Q Public administration, education and health",12749
+E06000002,Middlesbrough,7,"O, P, Q Public administration, education and health",20648
+E06000003,Redcar and Cleveland,7,"O, P, Q Public administration, education and health",19208
+E06000004,Stockton-on-Tees,7,"O, P, Q Public administration, education and health",30191
+E06000005,Darlington,7,"O, P, Q Public administration, education and health",16364
+E06000006,Halton,7,"O, P, Q Public administration, education and health",16364
+E06000007,Warrington,7,"O, P, Q Public administration, education and health",28826
+E06000008,Blackburn with Darwen,7,"O, P, Q Public administration, education and health",21748
+E06000009,Blackpool,7,"O, P, Q Public administration, education and health",21609
+E06000010,"Kingston upon Hull, City of",7,"O, P, Q Public administration, education and health",33585
+E06000011,East Riding of Yorkshire,7,"O, P, Q Public administration, education and health",50408
+E06000012,North East Lincolnshire,7,"O, P, Q Public administration, education and health",19103
+E06000013,North Lincolnshire,7,"O, P, Q Public administration, education and health",20860
+E06000014,York,7,"O, P, Q Public administration, education and health",33954
+E06000015,Derby,7,"O, P, Q Public administration, education and health",35881
+E06000016,Leicester,7,"O, P, Q Public administration, education and health",44904
+E06000017,Rutland,7,"O, P, Q Public administration, education and health",6624
+E06000018,Nottingham,7,"O, P, Q Public administration, education and health",43550
+E06000019,"Herefordshire, County of",7,"O, P, Q Public administration, education and health",25799
+E06000020,Telford and Wrekin,7,"O, P, Q Public administration, education and health",25759
+E06000021,Stoke-on-Trent,7,"O, P, Q Public administration, education and health",32559
+E06000022,Bath and North East Somerset,7,"O, P, Q Public administration, education and health",29699
+E06000023,"Bristol, City of",7,"O, P, Q Public administration, education and health",78413
+E06000024,North Somerset,7,"O, P, Q Public administration, education and health",31093
+E06000025,South Gloucestershire,7,"O, P, Q Public administration, education and health",45723
+E06000026,Plymouth,7,"O, P, Q Public administration, education and health",46342
+E06000027,Torbay,7,"O, P, Q Public administration, education and health",20123
+E06000030,Swindon,7,"O, P, Q Public administration, education and health",27771
+E06000031,Peterborough,7,"O, P, Q Public administration, education and health",26492
+E06000032,Luton,7,"O, P, Q Public administration, education and health",26944
+E06000033,Southend-on-Sea,7,"O, P, Q Public administration, education and health",25204
+E06000034,Thurrock,7,"O, P, Q Public administration, education and health",21310
+E06000035,Medway,7,"O, P, Q Public administration, education and health",39898
+E06000036,Bracknell Forest,7,"O, P, Q Public administration, education and health",17699
+E06000037,West Berkshire,7,"O, P, Q Public administration, education and health",21994
+E06000038,Reading,7,"O, P, Q Public administration, education and health",24575
+E06000039,Slough,7,"O, P, Q Public administration, education and health",18224
+E06000040,Windsor and Maidenhead,7,"O, P, Q Public administration, education and health",18812
+E06000041,Wokingham,7,"O, P, Q Public administration, education and health",23787
+E06000042,Milton Keynes,7,"O, P, Q Public administration, education and health",36094
+E06000043,Brighton and Hove,7,"O, P, Q Public administration, education and health",46281
+E06000044,Portsmouth,7,"O, P, Q Public administration, education and health",34647
+E06000045,Southampton,7,"O, P, Q Public administration, education and health",38364
+E06000046,Isle of Wight,7,"O, P, Q Public administration, education and health",19379
+E06000047,County Durham,7,"O, P, Q Public administration, education and health",77982
+E06000049,Cheshire East,7,"O, P, Q Public administration, education and health",51852
+E06000050,Cheshire West and Chester,7,"O, P, Q Public administration, education and health",47530
+E06000051,Shropshire,7,"O, P, Q Public administration, education and health",48722
+E06000052,Cornwall,7,"O, P, Q Public administration, education and health",77004
+E06000053,Isles of Scilly,4,"G, I Distribution, hotels and restaurants",325
+E06000054,Wiltshire,7,"O, P, Q Public administration, education and health",85391
+E06000055,Bedford,7,"O, P, Q Public administration, education and health",27988
+E06000056,Central Bedfordshire,7,"O, P, Q Public administration, education and health",42321
+E06000057,Northumberland,7,"O, P, Q Public administration, education and health",48217
+E06000058,"Bournemouth, Christchurch and Poole",7,"O, P, Q Public administration, education and health",56810
+E06000059,Dorset,7,"O, P, Q Public administration, education and health",54701
+E06000060,Buckinghamshire,7,"O, P, Q Public administration, education and health",76879
+E06000061,North Northamptonshire,7,"O, P, Q Public administration, education and health",45762
+E06000062,West Northamptonshire,7,"O, P, Q Public administration, education and health",55541
+E07000008,Cambridge,7,"O, P, Q Public administration, education and health",27799
+E07000009,East Cambridgeshire,7,"O, P, Q Public administration, education and health",12773
+E07000010,Fenland,7,"O, P, Q Public administration, education and health",11718
+E07000011,Huntingdonshire,7,"O, P, Q Public administration, education and health",27433
+E07000012,South Cambridgeshire,7,"O, P, Q Public administration, education and health",27832
+E07000026,Allerdale,7,"O, P, Q Public administration, education and health",12324
+E07000027,Barrow-in-Furness,7,"O, P, Q Public administration, education and health",10722
+E07000028,Carlisle,7,"O, P, Q Public administration, education and health",15778
+E07000029,Copeland,7,"O, P, Q Public administration, education and health",7959
+E07000030,Eden,4,"G, I Distribution, hotels and restaurants",7147
+E07000031,South Lakeland,7,"O, P, Q Public administration, education and health",13666
+E07000032,Amber Valley,7,"O, P, Q Public administration, education and health",17329
+E07000033,Bolsover,7,"O, P, Q Public administration, education and health",11040
+E07000034,Chesterfield,7,"O, P, Q Public administration, education and health",15790
+E07000035,Derbyshire Dales,7,"O, P, Q Public administration, education and health",9824
+E07000036,Erewash,7,"O, P, Q Public administration, education and health",15510
+E07000037,High Peak,7,"O, P, Q Public administration, education and health",13733
+E07000038,North East Derbyshire,7,"O, P, Q Public administration, education and health",14651
+E07000039,South Derbyshire,7,"O, P, Q Public administration, education and health",15142
+E07000040,East Devon,7,"O, P, Q Public administration, education and health",21304
+E07000041,Exeter,7,"O, P, Q Public administration, education and health",22810
+E07000042,Mid Devon,7,"O, P, Q Public administration, education and health",11579
+E07000043,North Devon,7,"O, P, Q Public administration, education and health",13421
+E07000044,South Hams,7,"O, P, Q Public administration, education and health",13017
+E07000045,Teignbridge,7,"O, P, Q Public administration, education and health",20406
+E07000046,Torridge,7,"O, P, Q Public administration, education and health",8514
+E07000047,West Devon,7,"O, P, Q Public administration, education and health",7767
+E07000061,Eastbourne,7,"O, P, Q Public administration, education and health",16236
+E07000062,Hastings,7,"O, P, Q Public administration, education and health",14583
+E07000063,Lewes,7,"O, P, Q Public administration, education and health",14899
+E07000064,Rother,7,"O, P, Q Public administration, education and health",12006
+E07000065,Wealden,7,"O, P, Q Public administration, education and health",21924
+E07000066,Basildon,7,"O, P, Q Public administration, education and health",23206
+E07000067,Braintree,7,"O, P, Q Public administration, education and health",20453
+E07000068,Brentwood,6,"K, L, M, N Financial, real estate, professional and administrative activities",10905
+E07000069,Castle Point,7,"O, P, Q Public administration, education and health",10368
+E07000070,Chelmsford,7,"O, P, Q Public administration, education and health",26747
+E07000071,Colchester,7,"O, P, Q Public administration, education and health",31773
+E07000072,Epping Forest,6,"K, L, M, N Financial, real estate, professional and administrative activities",16710
+E07000073,Harlow,7,"O, P, Q Public administration, education and health",13350
+E07000074,Maldon,7,"O, P, Q Public administration, education and health",7747
+E07000075,Rochford,7,"O, P, Q Public administration, education and health",11009
+E07000076,Tendring,7,"O, P, Q Public administration, education and health",17978
+E07000077,Uttlesford,7,"O, P, Q Public administration, education and health",11807
+E07000078,Cheltenham,7,"O, P, Q Public administration, education and health",20093
+E07000079,Cotswold,7,"O, P, Q Public administration, education and health",10525
+E07000080,Forest of Dean,7,"O, P, Q Public administration, education and health",11794
+E07000081,Gloucester,7,"O, P, Q Public administration, education and health",21111
+E07000082,Stroud,7,"O, P, Q Public administration, education and health",17653
+E07000083,Tewkesbury,7,"O, P, Q Public administration, education and health",14673
+E07000084,Basingstoke and Deane,7,"O, P, Q Public administration, education and health",26313
+E07000085,East Hampshire,7,"O, P, Q Public administration, education and health",18415
+E07000086,Eastleigh,7,"O, P, Q Public administration, education and health",21878
+E07000087,Fareham,7,"O, P, Q Public administration, education and health",19097
+E07000088,Gosport,7,"O, P, Q Public administration, education and health",14606
+E07000089,Hart,7,"O, P, Q Public administration, education and health",14300
+E07000090,Havant,7,"O, P, Q Public administration, education and health",17221
+E07000091,New Forest,7,"O, P, Q Public administration, education and health",23504
+E07000092,Rushmoor,7,"O, P, Q Public administration, education and health",17502
+E07000093,Test Valley,7,"O, P, Q Public administration, education and health",20128
+E07000094,Winchester,7,"O, P, Q Public administration, education and health",20943
+E07000095,Broxbourne,7,"O, P, Q Public administration, education and health",12087
+E07000096,Dacorum,7,"O, P, Q Public administration, education and health",20360
+E07000098,Hertsmere,7,"O, P, Q Public administration, education and health",14820
+E07000099,North Hertfordshire,7,"O, P, Q Public administration, education and health",19086
+E07000102,Three Rivers,7,"O, P, Q Public administration, education and health",13567
+E07000103,Watford,7,"O, P, Q Public administration, education and health",15269
+E07000105,Ashford,7,"O, P, Q Public administration, education and health",19221
+E07000106,Canterbury,7,"O, P, Q Public administration, education and health",24424
+E07000107,Dartford,7,"O, P, Q Public administration, education and health",16808
+E07000108,Dover,7,"O, P, Q Public administration, education and health",18099
+E07000109,Gravesham,7,"O, P, Q Public administration, education and health",13405
+E07000110,Maidstone,7,"O, P, Q Public administration, education and health",25432
+E07000111,Sevenoaks,6,"K, L, M, N Financial, real estate, professional and administrative activities",15233
+E07000112,Folkestone and Hythe,7,"O, P, Q Public administration, education and health",15343
+E07000113,Swale,7,"O, P, Q Public administration, education and health",19871
+E07000114,Thanet,7,"O, P, Q Public administration, education and health",20465
+E07000115,Tonbridge and Malling,7,"O, P, Q Public administration, education and health",18079
+E07000116,Tunbridge Wells,7,"O, P, Q Public administration, education and health",15642
+E07000117,Burnley,7,"O, P, Q Public administration, education and health",12250
+E07000118,Chorley,7,"O, P, Q Public administration, education and health",19141
+E07000119,Fylde,7,"O, P, Q Public administration, education and health",12772
+E07000120,Hyndburn,7,"O, P, Q Public administration, education and health",11402
+E07000121,Lancaster,7,"O, P, Q Public administration, education and health",23579
+E07000122,Pendle,7,"O, P, Q Public administration, education and health",10730
+E07000123,Preston,7,"O, P, Q Public administration, education and health",24512
+E07000124,Ribble Valley,7,"O, P, Q Public administration, education and health",9825
+E07000125,Rossendale,7,"O, P, Q Public administration, education and health",11154
+E07000126,South Ribble,7,"O, P, Q Public administration, education and health",19377
+E07000127,West Lancashire,7,"O, P, Q Public administration, education and health",17269
+E07000128,Wyre,7,"O, P, Q Public administration, education and health",17715
+E07000129,Blaby,7,"O, P, Q Public administration, education and health",15676
+E07000130,Charnwood,7,"O, P, Q Public administration, education and health",26932
+E07000131,Harborough,7,"O, P, Q Public administration, education and health",14118
+E07000132,Hinckley and Bosworth,7,"O, P, Q Public administration, education and health",15225
+E07000133,Melton,7,"O, P, Q Public administration, education and health",6937
+E07000134,North West Leicestershire,7,"O, P, Q Public administration, education and health",13313
+E07000135,Oadby and Wigston,7,"O, P, Q Public administration, education and health",9221
+E07000136,Boston,7,"O, P, Q Public administration, education and health",8359
+E07000137,East Lindsey,7,"O, P, Q Public administration, education and health",16584
+E07000138,Lincoln,7,"O, P, Q Public administration, education and health",15169
+E07000139,North Kesteven,7,"O, P, Q Public administration, education and health",22287
+E07000140,South Holland,4,"G, I Distribution, hotels and restaurants",11258
+E07000141,South Kesteven,7,"O, P, Q Public administration, education and health",19910
+E07000142,West Lindsey,7,"O, P, Q Public administration, education and health",14269
+E07000143,Breckland,7,"O, P, Q Public administration, education and health",18241
+E07000144,Broadland,7,"O, P, Q Public administration, education and health",19153
+E07000145,Great Yarmouth,7,"O, P, Q Public administration, education and health",12433
+E07000146,King's Lynn and West Norfolk,7,"O, P, Q Public administration, education and health",19894
+E07000147,North Norfolk,7,"O, P, Q Public administration, education and health",11289
+E07000148,Norwich,7,"O, P, Q Public administration, education and health",21955
+E07000149,South Norfolk,7,"O, P, Q Public administration, education and health",22320
+E07000163,Craven,7,"O, P, Q Public administration, education and health",7697
+E07000164,Hambleton,7,"O, P, Q Public administration, education and health",14105
+E07000165,Harrogate,7,"O, P, Q Public administration, education and health",23553
+E07000166,Richmondshire,7,"O, P, Q Public administration, education and health",9559
+E07000167,Ryedale,7,"O, P, Q Public administration, education and health",6573
+E07000168,Scarborough,7,"O, P, Q Public administration, education and health",14159
+E07000169,Selby,7,"O, P, Q Public administration, education and health",12712
+E07000170,Ashfield,7,"O, P, Q Public administration, education and health",17480
+E07000171,Bassetlaw,7,"O, P, Q Public administration, education and health",15904
+E07000172,Broxtowe,7,"O, P, Q Public administration, education and health",17923
+E07000173,Gedling,7,"O, P, Q Public administration, education and health",19703
+E07000174,Mansfield,7,"O, P, Q Public administration, education and health",15477
+E07000175,Newark and Sherwood,7,"O, P, Q Public administration, education and health",16354
+E07000176,Rushcliffe,7,"O, P, Q Public administration, education and health",20375
+E07000177,Cherwell,7,"O, P, Q Public administration, education and health",23901
+E07000178,Oxford,7,"O, P, Q Public administration, education and health",33496
+E07000179,South Oxfordshire,7,"O, P, Q Public administration, education and health",22123
+E07000180,Vale of White Horse,7,"O, P, Q Public administration, education and health",23685
+E07000181,West Oxfordshire,7,"O, P, Q Public administration, education and health",19178
+E07000187,Mendip,7,"O, P, Q Public administration, education and health",15538
+E07000188,Sedgemoor,7,"O, P, Q Public administration, education and health",15877
+E07000189,South Somerset,7,"O, P, Q Public administration, education and health",24056
+E07000192,Cannock Chase,7,"O, P, Q Public administration, education and health",13247
+E07000193,East Staffordshire,7,"O, P, Q Public administration, education and health",15334
+E07000194,Lichfield,7,"O, P, Q Public administration, education and health",14444
+E07000195,Newcastle-under-Lyme,7,"O, P, Q Public administration, education and health",18175
+E07000196,South Staffordshire,7,"O, P, Q Public administration, education and health",15659
+E07000197,Stafford,7,"O, P, Q Public administration, education and health",22585
+E07000198,Staffordshire Moorlands,7,"O, P, Q Public administration, education and health",13119
+E07000199,Tamworth,4,"G, I Distribution, hotels and restaurants",9864
+E07000200,Babergh,7,"O, P, Q Public administration, education and health",12012
+E07000202,Ipswich,7,"O, P, Q Public administration, education and health",19722
+E07000203,Mid Suffolk,7,"O, P, Q Public administration, education and health",14212
+E07000207,Elmbridge,6,"K, L, M, N Financial, real estate, professional and administrative activities",19344
+E07000208,Epsom and Ewell,7,"O, P, Q Public administration, education and health",12576
+E07000209,Guildford,7,"O, P, Q Public administration, education and health",21952
+E07000210,Mole Valley,7,"O, P, Q Public administration, education and health",11837
+E07000211,Reigate and Banstead,7,"O, P, Q Public administration, education and health",22739
+E07000212,Runnymede,7,"O, P, Q Public administration, education and health",11656
+E07000213,Spelthorne,7,"O, P, Q Public administration, education and health",12905
+E07000214,Surrey Heath,7,"O, P, Q Public administration, education and health",13230
+E07000215,Tandridge,7,"O, P, Q Public administration, education and health",11965
+E07000216,Waverley,7,"O, P, Q Public administration, education and health",17447
+E07000217,Woking,7,"O, P, Q Public administration, education and health",14031
+E07000218,North Warwickshire,7,"O, P, Q Public administration, education and health",8042
+E07000219,Nuneaton and Bedworth,7,"O, P, Q Public administration, education and health",18150
+E07000220,Rugby,7,"O, P, Q Public administration, education and health",15424
+E07000221,Stratford-on-Avon,7,"O, P, Q Public administration, education and health",16475
+E07000222,Warwick,7,"O, P, Q Public administration, education and health",21872
+E07000223,Adur,7,"O, P, Q Public administration, education and health",9135
+E07000224,Arun,7,"O, P, Q Public administration, education and health",21543
+E07000225,Chichester,7,"O, P, Q Public administration, education and health",17638
+E07000226,Crawley,7,"O, P, Q Public administration, education and health",14222
+E07000227,Horsham,7,"O, P, Q Public administration, education and health",19409
+E07000228,Mid Sussex,7,"O, P, Q Public administration, education and health",22744
+E07000229,Worthing,7,"O, P, Q Public administration, education and health",18346
+E07000234,Bromsgrove,7,"O, P, Q Public administration, education and health",15673
+E07000235,Malvern Hills,7,"O, P, Q Public administration, education and health",11168
+E07000236,Redditch,7,"O, P, Q Public administration, education and health",10841
+E07000237,Worcester,7,"O, P, Q Public administration, education and health",17246
+E07000238,Wychavon,7,"O, P, Q Public administration, education and health",17034
+E07000239,Wyre Forest,7,"O, P, Q Public administration, education and health",13036
+E07000240,St Albans,7,"O, P, Q Public administration, education and health",19899
+E07000241,Welwyn Hatfield,7,"O, P, Q Public administration, education and health",15596
+E07000242,East Hertfordshire,7,"O, P, Q Public administration, education and health",19967
+E07000243,Stevenage,7,"O, P, Q Public administration, education and health",14146
+E07000244,East Suffolk,7,"O, P, Q Public administration, education and health",30554
+E07000245,West Suffolk,7,"O, P, Q Public administration, education and health",28491
+E07000246,Somerset West and Taunton,7,"O, P, Q Public administration, education and health",26106
+E08000001,Bolton,7,"O, P, Q Public administration, education and health",37971
+E08000002,Bury,7,"O, P, Q Public administration, education and health",29429
+E08000003,Manchester,7,"O, P, Q Public administration, education and health",76255
+E08000004,Oldham,7,"O, P, Q Public administration, education and health",30592
+E08000005,Rochdale,7,"O, P, Q Public administration, education and health",29623
+E08000006,Salford,7,"O, P, Q Public administration, education and health",37419
+E08000007,Stockport,7,"O, P, Q Public administration, education and health",45131
+E08000008,Tameside,7,"O, P, Q Public administration, education and health",31720
+E08000009,Trafford,7,"O, P, Q Public administration, education and health",36108
+E08000010,Wigan,7,"O, P, Q Public administration, education and health",48345
+E08000011,Knowsley,7,"O, P, Q Public administration, education and health",23778
+E08000012,Liverpool,7,"O, P, Q Public administration, education and health",75551
+E08000013,St. Helens,7,"O, P, Q Public administration, education and health",26938
+E08000014,Sefton,7,"O, P, Q Public administration, education and health",46087
+E08000015,Wirral,7,"O, P, Q Public administration, education and health",51451
+E08000016,Barnsley,7,"O, P, Q Public administration, education and health",32986
+E08000017,Doncaster,7,"O, P, Q Public administration, education and health",38626
+E08000018,Rotherham,7,"O, P, Q Public administration, education and health",26273
+E08000019,Sheffield,7,"O, P, Q Public administration, education and health",90452
+E08000021,Newcastle upon Tyne,7,"O, P, Q Public administration, education and health",45981
+E08000022,North Tyneside,7,"O, P, Q Public administration, education and health",37146
+E08000023,South Tyneside,7,"O, P, Q Public administration, education and health",22368
+E08000024,Sunderland,7,"O, P, Q Public administration, education and health",38596
+E08000025,Birmingham,7,"O, P, Q Public administration, education and health",151023
+E08000026,Coventry,7,"O, P, Q Public administration, education and health",46921
+E08000027,Dudley,7,"O, P, Q Public administration, education and health",46081
+E08000028,Sandwell,7,"O, P, Q Public administration, education and health",41939
+E08000029,Solihull,7,"O, P, Q Public administration, education and health",29154
+E08000030,Walsall,7,"O, P, Q Public administration, education and health",34957
+E08000031,Wolverhampton,7,"O, P, Q Public administration, education and health",35802
+E08000032,Bradford,7,"O, P, Q Public administration, education and health",69967
+E08000033,Calderdale,7,"O, P, Q Public administration, education and health",29268
+E08000034,Kirklees,7,"O, P, Q Public administration, education and health",58484
+E08000035,Leeds,7,"O, P, Q Public administration, education and health",120200
+E08000036,Wakefield,7,"O, P, Q Public administration, education and health",47037
+E08000037,Gateshead,7,"O, P, Q Public administration, education and health",30071
+E09000001,City of London,6,"K, L, M, N Financial, real estate, professional and administrative activities",2613
+E09000002,Barking and Dagenham,7,"O, P, Q Public administration, education and health",28663
+E09000003,Barnet,7,"O, P, Q Public administration, education and health",52720
+E09000004,Bexley,7,"O, P, Q Public administration, education and health",34996
+E09000005,Brent,7,"O, P, Q Public administration, education and health",38528
+E09000006,Bromley,7,"O, P, Q Public administration, education and health",48829
+E09000007,Camden,6,"K, L, M, N Financial, real estate, professional and administrative activities",31991
+E09000008,Croydon,7,"O, P, Q Public administration, education and health",61402
+E09000009,Ealing,7,"O, P, Q Public administration, education and health",42552
+E09000010,Enfield,7,"O, P, Q Public administration, education and health",43113
+E09000011,Greenwich,7,"O, P, Q Public administration, education and health",41799
+E09000012,Hackney,6,"K, L, M, N Financial, real estate, professional and administrative activities",38002
+E09000013,Hammersmith and Fulham,6,"K, L, M, N Financial, real estate, professional and administrative activities",30426
+E09000014,Haringey,7,"O, P, Q Public administration, education and health",37301
+E09000015,Harrow,7,"O, P, Q Public administration, education and health",32625
+E09000016,Havering,7,"O, P, Q Public administration, education and health",36318
+E09000017,Hillingdon,7,"O, P, Q Public administration, education and health",38866
+E09000018,Hounslow,7,"O, P, Q Public administration, education and health",31975
+E09000019,Islington,6,"K, L, M, N Financial, real estate, professional and administrative activities",35551
+E09000020,Kensington and Chelsea,6,"K, L, M, N Financial, real estate, professional and administrative activities",26807
+E09000021,Kingston upon Thames,7,"O, P, Q Public administration, education and health",25141
+E09000022,Lambeth,6,"K, L, M, N Financial, real estate, professional and administrative activities",55203
+E09000023,Lewisham,7,"O, P, Q Public administration, education and health",48816
+E09000024,Merton,7,"O, P, Q Public administration, education and health",31028
+E09000025,Newham,7,"O, P, Q Public administration, education and health",41024
+E09000026,Redbridge,7,"O, P, Q Public administration, education and health",39629
+E09000027,Richmond upon Thames,6,"K, L, M, N Financial, real estate, professional and administrative activities",28081
+E09000028,Southwark,6,"K, L, M, N Financial, real estate, professional and administrative activities",50112
+E09000029,Sutton,7,"O, P, Q Public administration, education and health",33921
+E09000030,Tower Hamlets,6,"K, L, M, N Financial, real estate, professional and administrative activities",49385
+E09000031,Waltham Forest,7,"O, P, Q Public administration, education and health",39903
+E09000032,Wandsworth,6,"K, L, M, N Financial, real estate, professional and administrative activities",63760
+E09000033,Westminster,6,"K, L, M, N Financial, real estate, professional and administrative activities",35905
+W06000001,Isle of Anglesey,7,"O, P, Q Public administration, education and health",10835
+W06000002,Gwynedd,7,"O, P, Q Public administration, education and health",18826
+W06000003,Conwy,7,"O, P, Q Public administration, education and health",18016
+W06000004,Denbighshire,7,"O, P, Q Public administration, education and health",15379
+W06000005,Flintshire,7,"O, P, Q Public administration, education and health",21169
+W06000006,Wrexham,7,"O, P, Q Public administration, education and health",20001
+W06000008,Ceredigion,7,"O, P, Q Public administration, education and health",10570
+W06000009,Pembrokeshire,7,"O, P, Q Public administration, education and health",17033
+W06000010,Carmarthenshire,7,"O, P, Q Public administration, education and health",31481
+W06000011,Swansea,7,"O, P, Q Public administration, education and health",40239
+W06000012,Neath Port Talbot,7,"O, P, Q Public administration, education and health",22408
+W06000013,Bridgend,7,"O, P, Q Public administration, education and health",22984
+W06000014,Vale of Glamorgan,7,"O, P, Q Public administration, education and health",22845
+W06000015,Cardiff,7,"O, P, Q Public administration, education and health",62078
+W06000016,Rhondda Cynon Taf,7,"O, P, Q Public administration, education and health",38009
+W06000018,Caerphilly,7,"O, P, Q Public administration, education and health",26704
+W06000019,Blaenau Gwent,7,"O, P, Q Public administration, education and health",10128
+W06000020,Torfaen,7,"O, P, Q Public administration, education and health",14274
+W06000021,Monmouthshire,7,"O, P, Q Public administration, education and health",13860
+W06000022,Newport,7,"O, P, Q Public administration, education and health",24143
+W06000023,Powys,7,"O, P, Q Public administration, education and health",18917
+W06000024,Merthyr Tydfil,7,"O, P, Q Public administration, education and health",9387
